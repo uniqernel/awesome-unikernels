@@ -51,6 +51,7 @@
 - [EbbRT](https://github.com/SESA/EbbRT) - Boston University unikernel research project.
 - [Nautilus](https://github.com/HExSA-Lab/nautilus) - Aerokernel from Sandia National Laboratories, supporting bare metal x86_64 and Xeon Phi.
 - [JML](https://github.com/yesco/jml) - Proof of concept for a minimal web server unikernel implementing its own language.
+- [UNICORE](http://unicore-project.eu) - Common code base and toolkit for deployment of applications to secure and reliable execution environments.
 
 ### Unikernel-like
 - [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
